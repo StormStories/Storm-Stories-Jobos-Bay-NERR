@@ -1,0 +1,8 @@
+event,reserve_code,station,station_name,parameter,min,max,mean,median,total
+Irma,job,jobjbmet,Jobos Bay Weather (JB),atemp,74.48,90.32,81.4051308900524,81.5,NA
+Irma,job,jobjbmet,Jobos Bay Weather (JB),bp,29.4412945901252,29.9137727380109,29.7910665349005,29.8251830852823,NA
+Irma,job,jobjbmet,Jobos Bay Weather (JB),intensprcp,0,0.960629921259842,0.0166000192384329,0,NA
+Irma,job,jobjbmet,Jobos Bay Weather (JB),maxwspd,0,25.724831297302,8.0420597120331,7.3819081113997,NA
+Irma,job,jobjbmet,Jobos Bay Weather (JB),rh,62,95,82.5479930191972,84,NA
+Irma,job,jobjbmet,Jobos Bay Weather (JB),totprcp,0,0.240157480314961,0.00415000480960822,0,2.37795275590551
+Irma,job,jobjbmet,Jobos Bay Weather (JB),wspd,0,11.1847092596965,3.39601346771728,2.9080244075211,NA
